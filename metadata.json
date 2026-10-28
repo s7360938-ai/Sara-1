@@ -1,0 +1,6 @@
+{
+  "name": "RidePilot - Driver Auto-Accept & Trip Filter Companion",
+  "description": "Smart ride filter and auto-accept simulator for Uber, Rapido, and Ola drivers. Set minimum fare, per-km rate, and max pickup distance with real-time profit analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
